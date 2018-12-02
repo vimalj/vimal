@@ -75,6 +75,7 @@ void result()
 class sensor: public IotDataQueue
 {
     public:
+    virtual
     void sensors()
     {
     IotDataQueue q1;
@@ -97,8 +98,17 @@ class Person: public sensor
     {
     cout<<Name<<"----Welcome to access sensors!----";
     }
-    sensor s1;
+    sensor s1,s2,s3,s4,s5,s6,s7,s8,s9,s10;
     s1.sensors();
+    s2.sensors();
+    s3.sensors();
+    s4.sensors();
+    s5.sensors();
+    s6.sensors();
+    s7.sensors();
+    s8.sensors();
+    s9.sensors();
+    s10.sensors();
     }
 };
 
