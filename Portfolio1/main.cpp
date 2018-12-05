@@ -1,32 +1,27 @@
 #include <iostream>
 #include <ctime>
-#include<cmath>
 using namespace std;
-
+int i;
 class TemperatureSensor
 {
-     public:
+public:
        int Temp;
-
        void GetTemp()
-        {
-            cout << "Get Temperature:" <<endl;
-            cin >> Temp;
+        {   cout << "Get Temperature:" <<endl;
+            cin >>Temp;
         }
         void ShowTemp()
         {
-
-            cout << "Show Temperature=" << Temp<<endl;
+            cout <<"Show Temperature=" <<Temp<<endl;
         }
 };
 
 class HumiditySensor
 {
     public:
-    int Humid;
-       void GetHumid()
+        int Humid;
+        void GetHumid()
         {
-
             cout << "Get Humidity:" <<endl;
             cin >> Humid;
         }
@@ -42,10 +37,8 @@ class Time
     void Date()
         {
             time_t t = time(NULL);
-            tm* tPtr = localtime(&t);
-            cout << " Current Date: " <<(tPtr->tm_mday)<<"/"<< (tPtr->tm_mon)+1 <<"/"<< (tPtr->tm_year)+1900<< endl;
-            cout << " Current Time: " << (tPtr->tm_hour)<<":"<< (tPtr->tm_min)<<":"<< (tPtr->tm_sec) << endl;
-            cout << endl;
+            char *tm = ctime(&t);
+            cout << "Timestamp: " <<tm;
         }
 };
 
@@ -53,38 +46,42 @@ class Time
 class IotDataQueue : public TemperatureSensor, public HumiditySensor, public Time
 {
 public:
+TemperatureSensor t;
+HumiditySensor h;
+Time d;
 void result()
-{
-    cout<<" Get Data from Sensor = "<<endl;
-    TemperatureSensor t;
+    {
+
+    cout<<" Get Sensor input = "<<i<<endl;
     t.GetTemp();
-
-    HumiditySensor h;
     h.GetHumid();
-
-    Time d;
     d.Date();
 
-    cout<<"********** Here is Sensor Result *********"<<endl;
-    d.Date();
+
+    cout<<" ----------Here is Sensor Result----- "<<endl;
+    cout<<"sensor:  "<<i<<"  result"<<endl;
     t.ShowTemp();
     h.ShowHumid();
+    d.Date();
     }
 };
 
-class sensor: public IotDataQueue
+class SensorController: public IotDataQueue
 {
     public:
-    virtual
-    void sensors()
+
+    virtual void sensors()
     {
-    IotDataQueue q1;
-    q1.result();
+    IotDataQueue q[i];
+    for (i=1; i<=10; i++)
+    {
+    q[i].result();
+    }
     }
 };
 
 
-class Person: public sensor
+class Person: public SensorController
 {
     public:
     void person()
@@ -96,20 +93,10 @@ class Person: public sensor
     cout<<"Enter Password = ";
     cin>>Pass;
     {
-    cout<<Name<<"----Welcome to access sensors!----";
+    cout<<" "<<"----Welcome to access sensors----"<<Name<<endl;
     }
-    sensor s1,s2,s3,s4,s5,s6,s7,s8,s9,s10;
-    s1.sensors();
-    s2.sensors();
-    s3.sensors();
-    s4.sensors();
-    s5.sensors();
-    s6.sensors();
-    s7.sensors();
-    s8.sensors();
-    s9.sensors();
-    s10.sensors();
-    }
+    sensors();
+}
 };
 
 int main()
