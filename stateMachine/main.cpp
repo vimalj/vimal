@@ -238,10 +238,12 @@ while(1)
     cin >> num;
     (fsm.*ptrs[num])();
 
-    if(num==2)
+    while(1)
     {
     Person p1;
     p1.person();
     }
   }
 }
+
+
