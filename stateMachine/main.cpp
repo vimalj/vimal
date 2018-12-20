@@ -30,7 +30,7 @@ class State
     }
     virtual void processing(SensorStates *m)
     {
-        cout << "   already PROCESSING\n";
+        cout << "PROCESSING\n";
     }
 };
 
@@ -238,12 +238,13 @@ while(1)
     cin >> num;
     (fsm.*ptrs[num])();
 
-    while(1)
+    if(num==2)
     {
     Person p1;
     p1.person();
     }
   }
 }
+
 
 
