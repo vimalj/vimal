@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544301573 source:c:\users\vimal\desktop\codeblocks statemachine\statemachine\main.cpp
+	<iostream>
+	<ctime>
+
+1545275991 source:c:\users\vimal\desktop\statemachine\main.cpp
+	<iostream>
+	<ctime>
+	<unistd.h>
+
