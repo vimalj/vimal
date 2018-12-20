@@ -242,6 +242,7 @@ while(1)
     {
     Person p1;
     p1.person();
+    return 0;
     }
   }
 }
