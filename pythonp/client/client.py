@@ -14,7 +14,7 @@ for reading in head.findall('reading'):
     Temperature.append(int(reading.find('temperature').text))
 
 plt.style.use('ggplot')
-plt.title("Graph between Temperature(x-axis) and Time (y-axis)",fontsize=14, fontweight='bold', color='red', loc='center')
+plt.title("Graph between Temperature(y-axis) and Time (x-axis)",fontsize=14, fontweight='bold', color='red', loc='center')
 plt.plot(time, Temperature)
 plt.xlabel("time  (hours)",fontsize=14, fontweight='bold', color='red')
 plt.ylabel("Temperature  (celcius)",fontsize=14, fontweight='bold', color='red');
