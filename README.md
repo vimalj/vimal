@@ -7,7 +7,7 @@
 </h1>
 </marquee>
 
-<h1 align="center">Hi, <img src="GIF/Hi.gif" width="40" /> I'm Vimal</h1>
+<h1 align="center"> <img src="GIF/Hi.gif" width="40" /> Hi, I'm Vimal</h1>
 <h3 align="center"><I></I>A passionate IT professional from India</I></h3>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/vimalj/vimalj/master/GIF/mygif.gif">
