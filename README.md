@@ -1,13 +1,13 @@
 <marquee behavior="scroll" direction="up">
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24">
+<img src="https://www.animatedimages.org/data/media/1160/animated-earth-image-0021.gif" width="25">
   𝐇𝐞𝐥𝐥𝐨 &lt;World/&gt;!
   <img  src="https://www.animatedimages.org/data/media/107/animated-dancing-image-0333.gif" width="70" height="70" />
   
 </h1>
 </marquee>
 
-<h1 align="center"> <img src="https://www.animatedimages.org/data/media/1160/animated-earth-image-0021.gif" width="25">
+<h1 align="center"> 
   Hi, I'm Vimal</h1>
 <h3 align="center"><I></I>A passionate IT professional from India</I></h3>
 
