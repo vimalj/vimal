@@ -10,7 +10,7 @@
 <h1 align="center">Hi, I'm Vimal</h1>
 <h3 align="center"><I></I>A passionate IT professional from India</I></h3>
 
-<img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/vimalj/vimalj/master/GIF/Untitleddesign.gif">
+<video autoplay="" loop="" muted="" playsinline=""><source src="https://developers.giphy.com/branch/master/static/grid-cc-final-a5269040c4d0bef7352d726779741056.mp4" type="video/mp4"></video>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalj&label=Profile%20views&color=0e75b6&style=flat" alt="vimalj" /> </p>
 
