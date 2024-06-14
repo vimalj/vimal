@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking to collaborate on Open Source Projects
 
-- ⚡ Fun fact **AI versus programmers**
+- ⚡ Fun fact **AI versus human programmers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
