@@ -302,3 +302,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalj&show_icons=true&locale=en" alt="vimalj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalj&" alt="vimalj" /></p>
+
+<img src="GIF/dino.gif" style="display: block; opacity: 1;" />
