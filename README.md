@@ -89,7 +89,9 @@
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="40" height="40"/> </a>
       <br> C# 
   </td>
+</tr>
 
+<tr>
   <td align="center" width="96">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/> </a>
     <br> Python 
@@ -120,12 +122,9 @@
      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
      <br> Sqlite
   </td>
-</tr>
 
 
 
-
-<tr>
   
   <td align="center" width="96">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"     
@@ -142,7 +141,9 @@
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><br> Google 
      Cloud 
    </td>
+</tr>
 
+<tr>
  <td align="center" width="96">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="40" height="40"/> </a> <br> Docker 
  </td>
@@ -188,7 +189,10 @@
     <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a><br> Grafana 
   </td>
 
+</tr>
 
+
+<tr>
   <td align="center" width="96">
     <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> 
      </a> <br> Kibana 
@@ -204,11 +208,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <br>Android
   </td>
 
-</tr>
 
-
-
-<tr>
 
   <td align="center" width="96">
     <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> 
@@ -238,7 +238,8 @@
      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> Arduino<br> 
   </td>
 
-
+</tr>
+<tr>
    <td align="center" width="96">
     <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a> 
     RaspberryPi<br> 
