@@ -41,11 +41,10 @@
 
 <tr>
 
-    
     <td align="center" width="96">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="40" alt="Linux" /></a>
-        <br>Linux
+        <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /></a>
+        <br> Linux
     </td>
 
     <td align="center" width="96">
@@ -57,17 +56,21 @@
     <br> CSS3 </td>
     
     <td align="center" width="96">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40"/> </a><br> JavaScript</td> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="40" height="40"/> </a>
+    <br> JavaScript</td> 
 
     <td align="center" width="96">
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <br> php </td>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+    <br> php </td>
 
     <td align="center" width="96">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="40" height="40"/> </a> <br> Java </td>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="40" height="40"/> </a> 
+    <br> Java </td>
 
     
     <td align="center" width="96">
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><br> C </td>
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+   <br> C </td>
 
     <td align="center" width="96">
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -78,25 +81,30 @@
     <br> C# </td>
 
     <td align="center" width="96">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/> </a><br> Python </td>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/> </a>
+    <br> Python </td>
 
     <td align="center" width="96">
       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="40"/></a>
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40"/></a>
       <br>Django
     </td>
   
     <td align="center" width="96">
-    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <br> Go</td>
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+    <br> Go</td>
 
     <td align="center" width="96">
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a><br> SQL server </td>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+    <br> SQL server </td>
 
     <td align="center" width="96">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> <br> MySQL </td>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a> 
+    <br> MySQL </td>
 
     <td align="center" width="96">
-     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <br> Sqlite</td>
+     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+     <br> Sqlite</td>
 
 </tr>
 
@@ -131,7 +139,7 @@
 
     <td align="center" width="96">
       <a href="https://www.ibm.com/topics/rest-apis" target="_blank" rel="noreferrer"> 
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="40" alt="Rest API" /></a>
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="Rest API" /></a>
       <br>Rest API
     </td>
 
@@ -206,7 +214,7 @@
 
     <td align="center" width="96">
       <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="40" /></a>
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="40" height="40" /></a>
       <br>Nginx
     </td>
 
@@ -217,7 +225,7 @@
 
     <td align="center" width="96">
        <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" /> </a>
+    <img src="https://skillicons.dev/icons?i=jquery" width="48" height="40" alt="jquery" /> </a>
       <br>JQuery
     </td>
     
