@@ -37,6 +37,8 @@
 
 <h3 align="left">Languages and Tools:</h3> <p align="left"> 
 
+
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -77,8 +79,7 @@
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
       <br>Nginx
     </td>
-  </tr>
-  <tr>
+
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -95,6 +96,12 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
+    
+  </tr>
+
+
+  <tr>
+    
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
@@ -116,6 +123,8 @@
       <br>ASP.NET
     </td>
   </tr>
+
+
    <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
