@@ -26,7 +26,7 @@
 
 <br> </br>
 
-<iframe src="https://www.youtube.com/embed/TRxf5hLZih4?autoplay=1&mute=1" name="youtube embed" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<video src="https://www.youtube.com/embed/TRxf5hLZih4?autoplay=1&mute=1" name="youtube embed" allow="autoplay; encrypted-media" allowfullscreen></video>
 
 <br> </br>
 <h3 align="left">Connect with me:</h3>
