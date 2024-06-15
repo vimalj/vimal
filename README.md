@@ -1,4 +1,5 @@
-<meta name="google-site-verification" content="gAfPMjo0AMsqoecHGt5fcliY5toZUGbPU_hwAOhw2Js" />
+
+
 <marquee behavior="scroll" direction="up">
 <h1 align="center">
 <img src="https://www.animatedimages.org/data/media/1160/animated-earth-image-0021.gif" width="25">
