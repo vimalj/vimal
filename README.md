@@ -1,14 +1,14 @@
 <marquee behavior="scroll" direction="up">
 <h1 align="center">
 <img src="https://www.animatedimages.org/data/media/1160/animated-earth-image-0021.gif" width="25">
-𝐇𝐞𝐥𝐥𝐨 &lt;World/&gt;!
+$\color{rgb(144,50,218)}{\textsf{𝐇𝐞𝐥𝐥𝐨 &lt;/World&gt;!}}$
 <img  src="https://www.animatedimages.org/data/media/107/animated-dancing-image-0333.gif" width="70" height="70" />
 </h1>
 </marquee>
 
 <h1 align="center"> <img src="GIF/Hi.gif" width="40" />
-  Hi, I'm Vimal</h1>
-<h3 align="center"><I></I> $\color{rgb(181,112,236)}{\textsf{A passionate IT professional from India}}$ </I></h3>
+$\color{rgb(144,50,218)}{\textsf{Hi, I'm Vimal}}$  </h1>
+<h3 align="center"><I></I> $\color{rgb(144,50,218)}{\textsf{A passionate IT professional from India}}$ </I></h3>
 
 <img align="right" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/vimalj/vimalj/master/GIF/mygif.gif">
 
