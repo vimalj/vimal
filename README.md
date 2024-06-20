@@ -8,7 +8,7 @@
 
 <h1 align="center"> <img src="GIF/Hi.gif" width="40" />
   Hi, I'm Vimal</h1>
-<h3 align="center"><I></I>A passionate IT professional from India</I></h3>
+<h3 align="center"><I></I> $\color{rgb(181,112,236)}{\textsf{A passionate IT professional from India}}$ </I></h3>
 
 <img align="right" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/vimalj/vimalj/master/GIF/mygif.gif">
 
