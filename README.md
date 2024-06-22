@@ -1,28 +1,27 @@
 <marquee behavior="scroll" direction="up">
 <h1 align="center">
 <img src="https://www.animatedimages.org/data/media/1160/animated-earth-image-0021.gif" width="25">
-$\color{rgb(144,50,218)}{\textsf{𝐇𝐞𝐥𝐥𝐨 World!}}$
+$\color{rgb(100,50,218)}{\textsf{𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝!}}$
 <img  src="https://www.animatedimages.org/data/media/107/animated-dancing-image-0333.gif" width="70" height="70" />
 </h1>
 </marquee>
 
-<h1 align="center"> <img src="GIF/Hi.gif" width="40" />
-$\color{rgb(144,50,218)}{\textsf{Hi, I'm Vimal}}$  </h1>
-<h3 align="center"><I></I> $\color{rgb(144,50,218)}{\textsf{A passionate IT professional from India}}$ </I></h3>
+<h1 align="center">  $\color{rgb(100,50,218)}{\textsf{𝐇𝐢, 𝐈 𝐚𝐦 𝐕𝐢𝐦𝐚𝐥}}$ <img src="GIF/Hi.gif" width="40" />  </h1>
+<h3 align="center"><I></I> $\color{rgb(100,50,218)}{\textsf{𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐈𝐓 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚}}$ </I></h3>
 
 <img align="right" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/vimalj/vimalj/master/GIF/mygif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalj&label=Profile%20views&color=0e75b6&style=flat" alt="vimalj" /> </p>
 
-<h4>🌱 I’m currently learning ** skills that seems interesting **</h4>
+<h4>🌱 $\color{rgb(100,50,218)}{\textsf{𝑰’𝒎 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 ** 𝒈𝒓𝒐𝒘𝒊𝒏𝒈 𝒔𝒌𝒊𝒍𝒍 𝒍𝒆𝒗𝒆𝒍 **}}$</h4>
 
-<h4>🤝 I’m looking to collaborate on Open Source Projects </h4>
+<h4>🤝 $\color{rgb(100,50,218)}{\textsf{𝑰’𝒎 𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆 𝒐𝒏 𝑶𝒑𝒆𝒏 𝑺𝒐𝒖𝒓𝒄𝒆 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔}}$ </h4>
 
-<h4>⚡ Fun fact ** AI versus humans ** </h4>
+<h4>⚡ $\color{rgb(100,50,218)}{\textsf{𝑭𝒖𝒏 𝒇𝒂𝒄𝒕 ** 𝑨𝑰 𝒗𝒆𝒓𝒔𝒖𝒔 𝒉𝒖𝒎𝒂𝒏𝒔 𝒘𝒐𝒖𝒍𝒅 𝒃𝒆 𝒇𝒖𝒏 **}}$ </h4>
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">$\color{rgb(100,50,218)}{\textsf{𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞:}}$</h3>
 
 <a href="https://www.linkedin.com/in/vimal-jaswal-979578118/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimal-jaswal-979578118" height="25" width="25" /></a>
@@ -34,7 +33,7 @@ $\color{rgb(144,50,218)}{\textsf{Hi, I'm Vimal}}$  </h1>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">$\color{rgb(100,50,218)}{\textsf{𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬:}}$</h3>
 
 <table>
 
