@@ -303,4 +303,4 @@ $\color{rgb(144,50,218)}{\textsf{Hi, I'm Vimal}}$  </h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalj&" alt="vimalj" /></p>
 
-<img src="GIF/dino.gif" style="display: block; opacity: 1;" />
+<!--- <img src="GIF/dino.gif" style="display: block; opacity: 1;" /> --->
