@@ -7,7 +7,7 @@ $\color{rgb(100,50,218)}{\textsf{𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝!}}$
 </marquee>
 
 <h1 align="center">  $\color{rgb(100,50,218)}{\textsf{𝐇𝐢, 𝐈 𝐚𝐦 𝐕𝐢𝐦𝐚𝐥}}$ <img src="GIF/Hi.gif" width="40" />  </h1>
-<h3 align="center"><I></I> $\color{rgb(100,50,218)}{\textsf{A passionate IT and Computer professional from India}}$ </I></h3>
+<h3 align="center"><I></I> $\color{rgb(100,50,218)}{\textsf{A passionate IT and Computer professional}}$ </I></h3>
 
 <img align="right" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/vimalj/vimalj/master/GIF/mygif.gif">
 
@@ -15,9 +15,9 @@ $\color{rgb(100,50,218)}{\textsf{𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝!}}$
 
 <h4>🌱 $\color{rgb(100,50,218)}{\textsf{𝑰’𝒎 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 ** 𝒈𝒓𝒐𝒘𝒊𝒏𝒈 𝒔𝒌𝒊𝒍𝒍 𝒍𝒆𝒗𝒆𝒍 **}}$</h4>
 
-<h4>🤝 $\color{rgb(100,50,218)}{\textsf{𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆 𝒐𝒏 𝑶𝒑𝒆𝒏 𝑺𝒐𝒖𝒓𝒄𝒆 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔}}$ </h4>
+<h4>🤝 $\color{rgb(100,50,218)}{\textsf{𝒍𝒐𝒐𝒌𝒊𝒏𝒈 𝒕𝒐 𝒄𝒐𝒍𝒍𝒂𝒃𝒐𝒓𝒂𝒕𝒆: 𝑶𝒑𝒆𝒏 𝑺𝒐𝒖𝒓𝒄𝒆 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔}}$ </h4>
 
-<h4>⚡ $\color{rgb(100,50,218)}{\textsf{𝑭𝒖𝒏 𝒇𝒂𝒄𝒕 ** 𝑨𝑰 𝒗𝒆𝒓𝒔𝒖𝒔 𝒉𝒖𝒎𝒂𝒏𝒔 𝒘𝒐𝒖𝒍𝒅 𝒃𝒆 𝒇𝒖𝒏 **}}$ </h4>
+<h4>⚡ $\color{rgb(100,50,218)}{\textsf{** 𝑨𝑰 𝒗𝒆𝒓𝒔𝒖𝒔 𝒉𝒖𝒎𝒂𝒏𝒔 𝒘𝒐𝒖𝒍𝒅 𝒃𝒆 𝒇𝒖𝒏 **}}$ </h4>
 
 <br>
 
