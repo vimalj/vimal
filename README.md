@@ -7,7 +7,7 @@ $\color{rgb(100,50,218)}{\textsf{𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝!}}$
 </marquee>
 
 <h1 align="center">  $\color{rgb(100,50,218)}{\textsf{𝐇𝐢, 𝐈 𝐚𝐦 𝐕𝐢𝐦𝐚𝐥}}$ <img src="GIF/Hi.gif" width="40" />  </h1>
-<h3 align="center"><I></I> $\color{rgb(100,50,218)}{\textsf{A passionate IT and Computer professional}}$ </I></h3>
+<h3 align="center"><I></I> $\color{rgb(100,50,218)}{\textsf{A passionate Computer & IT professional}}$ </I></h3>
 
 <img align="right" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/vimalj/vimalj/master/GIF/mygif.gif">
 
