@@ -2,7 +2,6 @@
 <h1 align="center">
 <img src="https://www.animatedimages.org/data/media/1160/animated-earth-image-0021.gif" width="25">
 $\color{rgb(100,50,218)}{\textsf{𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝!}}$
-<img  src="https://www.animatedimages.org/data/media/107/animated-dancing-image-0333.gif" width="70" height="70" />
 </h1>
 </marquee>
 
